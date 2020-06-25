@@ -1,0 +1,12 @@
+# Web-Scraping
+
+To get started, install the library into your environment using the command line. 
+We will also need the requests module to get the HTML code from the BBC. 
+
+Run these in your terminal:
+
+conda install beautifulsoup4 requests -y
+
+OR
+
+pip install beautifulsoup4 requests
